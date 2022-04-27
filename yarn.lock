@@ -294,17 +294,17 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@layer0/core@^4.8.1":
-  version "4.8.1"
-  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.8.1.tgz#f81d8f626589ebe81f1661ba9fa2d11262b7c844"
-  integrity sha512-3+W5qtFGKXb0CJKOyZhAzQ44kI9/nx5Bml/UauzdE1xSEjyen9b96f0Cwm6QklCyxPIoWNizww1BqBBKrUqCBg==
+"@layer0/core@^4.13.9", "@layer0/core@^4.8.1":
+  version "4.13.9"
+  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.13.9.tgz#7707634b725c00cc783b8edab07bc17512d22b44"
+  integrity sha512-DQMybLOnstxtX6XDGgR2QaEFuGDEZpX/nDtk4QeiqjA8XS23+51dfhK2tIUFJx1rfKedYB1Hk7xnIVACQ7Jmpw==
   dependencies:
     "@babel/parser" "^7.16.2"
     "@babel/traverse" "^7.16.0"
     "@types/lodash.clonedeep" "^4.5.6"
     ajv "^6.12.6"
     babel-loader "^8.2.2"
-    chalk "^2.4.2"
+    chalk "^4.1.2"
     chardet "^1.4.0"
     chokidar "^3.5.1"
     cls-hooked "^4.2.2"
@@ -327,7 +327,7 @@
     qs "^6.10.1"
     resolve-package-path "^4.0.3"
     semver "^7.3.5"
-    shelljs "^0.8.4"
+    shelljs "^0.8.5"
     slash "^3.0.0"
     tcp-port-used "^1.0.2"
     ts-loader "^8.2.0"
@@ -731,7 +731,7 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chalk@^4.1.0:
+chalk@^4.1.0, chalk@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
@@ -2667,10 +2667,10 @@ shell-exec@1.0.2:
   resolved "https://registry.yarnpkg.com/shell-exec/-/shell-exec-1.0.2.tgz#2e9361b0fde1d73f476c4b6671fa17785f696756"
   integrity sha512-jyVd+kU2X+mWKMmGhx4fpWbPsjvD53k9ivqetutVW/BQ+WIZoDoP4d8vUMGezV6saZsiNoW2f9GIhg9Dondohg==
 
-shelljs@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.4.tgz#de7684feeb767f8716b326078a8a00875890e3c2"
-  integrity sha512-7gk3UZ9kOfPLIAbslLzyWeGiEqx9e3rxwZM0KE6EL8GlGwjym9Mrlx5/p33bWTu9YG6vcS4MBxYZDHYr5lr8BQ==
+shelljs@^0.8.5:
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.5.tgz#de055408d8361bed66c669d2f000538ced8ee20c"
+  integrity sha512-TiwcRcrkhHvbrZbnRcFYMLl30Dfov3HKqzp5tO5b4pt6G/SezKcYhmDg15zXVBswHmctSAQKznqNW2LO5tTDow==
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
