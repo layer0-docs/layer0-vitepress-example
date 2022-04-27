@@ -334,10 +334,10 @@
     unixify "^1.0.0"
     uuid "^8.3.2"
 
-"@layer0/devtools@^4.8.1":
-  version "4.8.1"
-  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.8.1.tgz#74b4d6d1db0b1af9c2eeaae9f44ba2a9290e4edc"
-  integrity sha512-yHRYety6HYoZpLmZjTY9RteeWFxR/fxnYs6vjYKWxt0y1rXB0RfN+JDbWQbGKUaTWlYrvdKHUUfK4oTMVi4tTQ==
+"@layer0/devtools@^4.13.9":
+  version "4.13.9"
+  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.13.9.tgz#89bd670999a918c24eb0e166dda8f7b9214fd3c4"
+  integrity sha512-RU6KdrVhBcwzuU66TskH3u6MH9sZa1h/9c9SXv0R1lt6WdMDxyP+kM9Wp2zk43SoOe36CnmtWUrqNJVnoTvqwQ==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
