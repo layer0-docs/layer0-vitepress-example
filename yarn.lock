@@ -295,10 +295,10 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@layer0/core@^4.13.9":
-  version "4.13.9"
-  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.13.9.tgz#7707634b725c00cc783b8edab07bc17512d22b44"
-  integrity sha512-DQMybLOnstxtX6XDGgR2QaEFuGDEZpX/nDtk4QeiqjA8XS23+51dfhK2tIUFJx1rfKedYB1Hk7xnIVACQ7Jmpw==
+"@layer0/core@^4.13.9", "@layer0/core@^4.17.0":
+  version "4.17.0"
+  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.17.0.tgz#acfd2eda9aa31ac075776faac5a45b01da1ac195"
+  integrity sha512-vp7JCDv/BalO+rmpBncEAbet2jwtpL+d7itcSB0+Vtonj6OywJrJIyxfmYsZBocIOVO8BXVBXzqT9GtpfifDZQ==
   dependencies:
     "@babel/parser" "^7.16.2"
     "@babel/traverse" "^7.16.0"
